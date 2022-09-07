@@ -1,5 +1,7 @@
 package src;
-
+/**
+ * @author Dhananjay Saikumar
+ */
 import org.jblas.*;
 import java.util.List;
 import minet.layer.init.*;

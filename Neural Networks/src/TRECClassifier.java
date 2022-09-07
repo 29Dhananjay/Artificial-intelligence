@@ -1,5 +1,7 @@
 package src;
-
+/**
+ * @author Dhananjay Saikumar
+ */
 import minet.layer.*;
 import minet.loss.CrossEntropy;
 import minet.loss.Loss;
